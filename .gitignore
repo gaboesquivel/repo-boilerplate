@@ -29,3 +29,6 @@ yarn-error.log*
 
 # netlify cli
 .netlify/
+
+# dev notes
+__devnotes
